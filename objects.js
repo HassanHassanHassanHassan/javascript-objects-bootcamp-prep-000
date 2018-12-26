@@ -1,6 +1,3 @@
-var meals = {
-  breakfast: 'avocado',
-  lunch: 'avocado',
-  dinner: 'avocado'
+var playlists = {
+  
 }
-
