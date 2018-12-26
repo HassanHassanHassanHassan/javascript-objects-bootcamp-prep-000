@@ -1,4 +1,2 @@
-var playlist = {
-Beatles: "Hey Jude"
-
-}
+let artist = "Beatles"
+let song = "Hey Jude"
