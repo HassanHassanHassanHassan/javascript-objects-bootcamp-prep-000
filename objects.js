@@ -1,2 +1,1 @@
-let artist = "Beatles"
-let song = "Hey Jude"
+var playlist = new Object({keys: '0'});
