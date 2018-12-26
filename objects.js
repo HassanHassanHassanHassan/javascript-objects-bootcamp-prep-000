@@ -1,5 +1,2 @@
-var playlists = new Object();
+var playlists = new Object({Beatles: "Hey Jude"})
 
-var playlists = {
-  Beatles: "Hey Jude"
-};
