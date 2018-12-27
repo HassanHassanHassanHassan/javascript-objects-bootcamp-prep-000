@@ -4,4 +4,5 @@ playlist[artistName] = 'Beatles'
 playlist[songTitle] = 'Hey Jude'
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist[artistName] = 
+  playlist[artistName] = songTitle
+  return playlist }
